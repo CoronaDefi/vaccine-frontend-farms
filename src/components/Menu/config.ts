@@ -74,7 +74,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/vaccineswap',
+        href: 'https://github.com/CoronaDefi',
       },
       {
         label: 'Blog',
